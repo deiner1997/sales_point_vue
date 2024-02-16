@@ -17,7 +17,7 @@ import { name, salesPointType } from "../helpers/configApp";
       <RouterLink
         :to="{ name: 'products' }"
         class="rounded text-white p-12 font-bold"
-        >Poductos</RouterLink
+        >Productos</RouterLink
       >
       <RouterLink
         :to="{ name: 'sales' }"
